@@ -67,6 +67,17 @@ Discover open-source algorithms, solvers, flight schedule connectors, and airpor
 
 ---
 
+## 💖 Support & Sponsorship
+
+Thank you for visiting and using this awesome list! If you find this repository helpful for your research, project, or organization, please consider supporting the project:
+
+- ⭐ **Star** this repository to show your support.
+- 🔄 **Fork** and contribute new tools or updates.
+- 📢 **Share** it with fellow aviation software engineers and airport operations researchers.
+- ☕ **Buy a Coffee / Sponsor**: Consider sponsoring this project via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007) to help maintain and grow open aviation technology resources!
+
+---
+
 ## 📈 Star History
 
 [![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Airport-Resource-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Airport-Resource-Management&type=date&legend=top-left)
