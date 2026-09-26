@@ -39,9 +39,9 @@ Below is the comparison table of leading Commercial & SaaS Airport Resource Mana
 
 ## 🔓 Open-Source GitHub Repositories
 
-Discover open-source algorithms, solvers, flight schedule connectors, and airport data repositories. Repositories are sorted in **descending order by GitHub Star Count** ⭐.
+Discover open-source algorithms, solvers, flight schedule connectors, and airport data repositories. Repositories are sorted in **descending order by GitHub Stars_Count** ⭐.
 
-| Repository | Description & Domain | GitHub Stars Badge |
+| Repository | Description & Domain | GitHub_Stars_Badge |
 | :--- | :--- | :--- |
 | **[google/or-tools](https://github.com/google/or-tools)** 🧮 | Industry-standard open-source combinatorial optimization suite for gate assignment, staff rostering, and vehicle routing. | [![OR-Tools Stars](https://img.shields.io/github/stars/google/or-tools?style=social&color=white)](https://github.com/google/or-tools/stargazers) |
 | **[activepieces/activepieces](https://github.com/activepieces/activepieces)** 🔄 | Open-source workflow automation platform useful for connecting flight schedule feeds (AIDX/IATA) to internal databases. | [![Activepieces Stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers) |
@@ -62,7 +62,7 @@ Discover open-source algorithms, solvers, flight schedule connectors, and airpor
 
 1. 🍴 **Fork** this repository.
 2. 📝 **Add/edit** entries in `README.md` following the tabular format.
-3. 🔎 Ensure all company revenue / pricing metrics or repository star badges are accurately updated.
+3. 🔎 Ensure all company revenue / pricing metrics or repository Stars_Badges are accurately updated.
 4. 🚀 Submit a **Pull Request (PR)** with a clear title and description.
 
 ---
